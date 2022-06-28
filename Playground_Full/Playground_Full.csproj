@@ -74,6 +74,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Algorithm\Sort Algorithm\" />
     <Folder Include="DAL\" />
     <Folder Include="Utility\" />
   </ItemGroup>
